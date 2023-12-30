@@ -149,7 +149,9 @@ section {
   position: relative;
   z-index: 0;
 }
-
+.custom-height{
+  height: 100%;
+}
 a {
   text-decoration: none;
   color: inherit;
